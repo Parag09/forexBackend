@@ -1,11 +1,11 @@
 # Folder Forex
 
 
-	Lamda function to get data from DynamoDB and data goes to the body of the Api
-	Api is deployed link https://lktkd58l71.execute-api.ap-south-1.amazonaws.com/staging/forex
-	CORS is handled
-	Helper functions for Client Side and Server Side are written
-	Lambda function to get a particular conversion Forex item is written
+	Lamda function named 'forex' gets data from DynamoDB and Api is deployed which returns the data obtained.
+	Api is deployed link https://lktkd58l71.execute-api.ap-south-1.amazonaws.com/staging/forex.
+	CORS is handled.
+	Helper functions for Client Side and Server Side are written.
+	Lambda function to get a particular conversion Forex item is written.
 
 
 
